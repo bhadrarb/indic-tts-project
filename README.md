@@ -73,4 +73,4 @@ The application can be evaluated using speech intelligibility, pronunciation qua
 
 ## Author
 
-Add your name and academic details here.
+BHADRA R B
